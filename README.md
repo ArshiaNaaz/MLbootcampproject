@@ -1,6 +1,6 @@
-'''
+```
 create virtual environment
-'''
+```
 '''
 '''
 conda create -p venv2 python=3.8 -y
